@@ -3,5 +3,6 @@ https://github.com/yellowsink/solid-reactor
 
 pnpm i
 
+npm run dev
 
 node dist/cli.js ./sample/test.js ./sample/test-out.js
