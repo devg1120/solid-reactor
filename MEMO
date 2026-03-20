@@ -1,0 +1,7 @@
+https://github.com/yellowsink/solid-reactor
+
+
+pnpm i
+
+
+node dist/cli.js ./sample/test.js ./sample/test-out.js
